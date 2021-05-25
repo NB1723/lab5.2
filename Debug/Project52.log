@@ -1,0 +1,13 @@
+﻿  Source.cpp
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(29,1): warning C4297: 'WholePart2': function assumed not to throw an exception but does
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(29,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(33,40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(38,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(43,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(48,39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(57,18): warning C5043: 'terminate': exception specification does not match previous declaration
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_terminate.h(29): message : see declaration of 'terminate'
+F:\!!!___NB\ооп\lab5\Project52\Source.cpp(57,18): warning C4273: 'terminate': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_terminate.h(29,48): message : see previous definition of 'terminate'
+     Creating library F:\!!!___NB\ооп\lab5\Project52\Debug\Project52.lib and object F:\!!!___NB\ооп\lab5\Project52\Debug\Project52.exp
+  Project52.vcxproj -> F:\!!!___NB\ооп\lab5\Project52\Debug\Project52.exe
